@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\imran\Desktop\CS\WIN32 API Tutorial\main.cpp(61,1): warning C4715: 'WindowProcedure': not all control paths return a value
+  WIN32 API Tutorial.vcxproj -> C:\Users\imran\Desktop\CS\WIN32 API Tutorial\x64\Debug\WIN32 API Tutorial.exe
